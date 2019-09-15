@@ -5,6 +5,6 @@ http://andydoz.blogspot.ro/2014_08_01_archive.html
 
 http://nicuflorica.blogspot.ro/2015/01/ceas-rtc-cu-ds1307-si-date-mediu-cu.html
 
-Detalii https://plus.google.com/u/0/+VladGheorghe/posts/ThDxomzp2md
+Detalii https://vlad-gheorghe.blogspot.com/2017/09/ceas-cu-arduino-ds1307-tft-22-ili9225.html
 
 
